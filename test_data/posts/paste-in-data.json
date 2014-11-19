@@ -1,0 +1,20 @@
+{
+    "posts": [ 
+        {
+            "title": "Lorem Ipsum",
+            "content": "Nothing to see here",
+            "date": "2014-11-28",
+            "links": {
+                "author": "ID"
+            }
+        },
+        {
+            "title": "Dolor Sit Amet",
+            "content": "Look at this content! Look at it!!",
+            "date": "2014-11-20",
+            "links": {
+                "author": "ID"
+            }
+        }
+    ]
+}
